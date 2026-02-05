@@ -1,0 +1,4 @@
+NAME="COS"
+PRETTY_NAME="COS (Cosine Operating System)"
+ID=cos
+VERSION="0.1-dev"
