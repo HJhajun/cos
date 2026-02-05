@@ -14,7 +14,14 @@ Ubuntu 기반 경량 OS 레이어입니다.
 ## 🚀 Install
 
 ```bash
-git clone https://github.com/YOURNAME/cos-os.git
+git clone https://github.com/HJhajun/cos-os.git
 cd cos-os
 chmod +x install.sh
 ./install.sh
+```
+
+Quick Install
+
+```bash
+git clone https://github.com/HJhajun/cos-os.git && cd cos-os && chmod +x install.sh && ./install.sh
+```

@@ -1,0 +1,10 @@
+logo = Image("cos.png");
+
+screen_width = Window.GetWidth();
+screen_height = Window.GetHeight();
+
+logo_x = (screen_width - logo.GetWidth()) / 2;
+logo_y = (screen_height - logo.GetHeight()) / 2;
+
+sprite = Sprite(logo);
+sprite.SetPosition(logo_x, logo_y);
