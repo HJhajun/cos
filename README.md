@@ -3,8 +3,6 @@
 **COS (Cosine Operating System)**  
 Ubuntu 기반 경량 OS 레이어입니다.
 
----
-
 ## ✨ Features
 
 - Ubuntu 기반
@@ -12,8 +10,6 @@ Ubuntu 기반 경량 OS 레이어입니다.
 - COS 브랜딩
 - GitHub + Codespaces 지원
 - 가벼운 개발 환경
-
----
 
 ## 🚀 Install
 
