@@ -1,7 +1,6 @@
-# COS 🐧
-
-**COS (Cosine Operating System)**  
-Ubuntu 기반 경량 OS 레이어입니다.
+# <p align="center"><img src="branding/cos.png" width="120"><br>COS</p>
+<h2 align="center">Cosine Operating System — Ubuntu 기반 경량 OS 레이어</h2>
+<br>
 
 ## ✨ Features
 
