@@ -7,7 +7,6 @@
 - Ubuntu 기반
 - 설치 스크립트 방식
 - COS 브랜딩
-- GitHub + Codespaces 지원
 - 가벼운 개발 환경
 
 ## 🚀 Install
